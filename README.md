@@ -9,10 +9,15 @@ I'm a backend developer with 8 years of experience, currently working on a large
 
 ## 🚀 Projects
 **1. Ecommerce Operating System**: Developed a highly customizable Headless eCommerce Operating System utilizing Nest.js and GraphQL, enabling dynamic API generation based on user-defined data models.
+
 **2. Order/Payment Management System**: Architected a high-performance, microservices-based order and payment system capable of handling massive traffic spikes, leveraging Nest.js and AWS technologies.
+
 **3. Notification API**: Created a multi-channel notification system implementing the CQRS pattern and queue-based asynchronous processing, significantly improving system responsiveness and reliability.
+
 **4. OAuth 2.0 Implementation**: Designed and deployed a centralized OAuth 2.0 authentication system for a microservices environment, facilitating secure and efficient service-to-service communication.
+
 **5. Inbound Management System (IMS)**: Engineered a Docker-based ERP system for managing clinical trial participants, featuring automated server management and high-availability architecture.
+
 **6. E-commerce Boilerplate**: Developed a CLI-based, scalable e-commerce platform boilerplate using Node.js, dramatically reducing setup time for new e-commerce projects and enabling non-technical management.
   
 ## 🛠️ Technologies & Tools
