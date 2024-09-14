@@ -59,9 +59,7 @@ I'm a backend developer with 8 years of experience, currently working on a large
 <!-- JWT  -->
 <img src='https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens' />
 <!-- Yarn  -->
-<img src='https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=white' />
-<!-- Linux  -->
-<img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black' />
+<img src='https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=whit
 <!-- ESLint  -->
 <img src='https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&amp;logo=eslint&amp;logoColor=white' />
 <!-- Jest  -->
