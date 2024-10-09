@@ -5,7 +5,7 @@
 
 I'm a backend developer with 8 years of experience, currently working on a large-scale multi-tenancy web builder platform. I'm specialized in designing scalable systems with large traffics.
 
-📄 [My Resume](https://thegrid-labs.com/resume) | 🌐 [My Website](https://thegrid-labs.com) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="480kyle" height="20px" width="30px" /> [My Writings](https://medium.com/@kyle.kim0305)
+📄 [My Resume](http://thegrid-labs.com/resume) | 🌐 [My Website](http://thegrid-labs.com) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="480kyle" height="20px" width="30px" /> [My Writings](https://medium.com/@kyle.kim0305)
 
 ## 🚀 Projects
 **1. [Ecommerce Operating System](https://github.com/kmin344/shopOS)**: Developed a highly customizable Headless eCommerce Operating System utilizing Nest.js and GraphQL, enabling dynamic API generation based on user-defined data models.
