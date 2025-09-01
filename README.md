@@ -8,17 +8,17 @@ I'm a backend developer with 8 years of experience, currently working on a large
 📄 [My Resume](http://thegrid-labs.com/resume) | 🌐 [My Website](http://thegrid-labs.com) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="480kyle" height="20px" width="30px" /> [My Writings](https://medium.com/@kyle.kim0305)
 
 ## 🚀 Projects
-**1. [Ecommerce Operating System](https://github.com/kmin344/shopOS)**: Developed a highly customizable Headless eCommerce Operating System utilizing Nest.js and GraphQL, enabling dynamic API generation based on user-defined data models.
+**1. [Ecommerce Operating System](https://github.com/kmin344/shopOS)**: A highly customizable Headless eCommerce Operating System utilizing Nest.js and GraphQL, enabling dynamic API generation based on user-defined data models.
 
-**2. [Order/Payment Management System](https://github.com/kmin344/OPMS)**: Architected a high-performance, microservices-based order and payment system capable of handling massive traffic spikes, leveraging Nest.js and AWS technologies.
+**2. [Order/Payment Management System](https://github.com/kmin344/OPMS)**: A high-performance, microservices-based order and payment system capable of handling massive traffic spikes, leveraging Nest.js and AWS technologies.
 
-**3. [Notification API](https://github.com/kmin344/Notification-API)**: Created a multi-channel notification system implementing the CQRS pattern and queue-based asynchronous processing, significantly improving system responsiveness and reliability.
+**3. [Notification API](https://github.com/kmin344/Notification-API)**: A multi-channel notification system implementing the CQRS pattern and queue-based asynchronous processing, significantly improving system responsiveness and reliability.
 
-**4. [OAuth 2.0 Implementation](https://github.com/kmin344/OAuth-2.0-Implementation)**: Designed and deployed a centralized OAuth 2.0 authentication system for a microservices environment, facilitating secure and efficient service-to-service communication.
+**4. [OAuth 2.0 Implementation](https://github.com/kmin344/OAuth-2.0-Implementation)**: A centralized OAuth 2.0 authentication system for a microservices environment, facilitating secure and efficient service-to-service communication.
 
-**5. [Inbound Management System](https://github.com/kmin344/IMS) (IMS)**: Engineered a Docker-based ERP system for managing clinical trial participants, featuring automated server management and high-availability architecture.
+**5. [Inbound Management System](https://github.com/kmin344/IMS) (IMS)**: A Docker-based ERP system for managing clinical trial participants, featuring automated server management and high-availability architecture.
 
-**6. [E-commerce Boilerplate](https://github.com/kmin344/ECB)**: Developed a CLI-based, scalable e-commerce platform boilerplate using Node.js, dramatically reducing setup time for new e-commerce projects and enabling non-technical management.
+**6. [E-commerce Boilerplate](https://github.com/kmin344/ECB)**: A CLI-based, scalable e-commerce platform boilerplate using Node.js, dramatically reducing setup time for new e-commerce projects and enabling non-technical management.
   
 ## 🛠️ Technologies & Tools
 
