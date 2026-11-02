@@ -1,25 +1,29 @@
-<p align='center'>
-<h1 align='center'>Hi, I am Kwangmin Kim<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
-<p align='center'>Software Engineer  | Backend Developer  | DevOps </h4>
-</p>
+<h1 align="center">Hi, I am Kwangmin Kim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h1>
+<p align="center">Software Engineer | Backend Developer | DevOps</p>
 
-I'm a backend developer with 8 years of experience, currently working on a large-scale multi-tenancy web builder platform. I'm specialized in designing scalable systems with large traffics.
 
-📄 [My Resume](http://thegrid-labs.com/resume) | 🌐 [My Website](http://thegrid-labs.com) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="480kyle" height="20px" width="30px" /> [My Writings](https://medium.com/@kyle.kim0305)
+I'm a backend developer with 8 years of experience, currently working on a large-scale multi-tenancy web builder platform. I specialize in designing scalable systems that handle high traffic.
+
+📄 [My Resume](https://thegrid-labs.com/resume) | 🌐 [My Website](https://thegrid-labs.com) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="20px" width="30px" /> [My Writings](https://medium.com/@kyle.kim0305)
 
 ## 🚀 Projects
-**1. [Ecommerce Operating System](https://github.com/kmin344/shopOS)**: A highly customizable Headless eCommerce Operating System utilizing Nest.js and GraphQL, enabling dynamic API generation based on user-defined data models.
 
-**2. [Order/Payment Management System](https://github.com/kmin344/OPMS)**: A high-performance, microservices-based order and payment system capable of handling massive traffic spikes, leveraging Nest.js and AWS technologies.
+### Open-source code
+**[Ecommerce Operating System (shopOS)](https://github.com/kmin344/shopOS)** — Headless e-commerce backend on Nest.js, GraphQL and TypeORM. Store owners attach custom fields to products, categories and orders at runtime, and those fields are served through the GraphQL API without schema changes.
 
-**3. [Notification API](https://github.com/kmin344/Notification-API)**: A multi-channel notification system implementing the CQRS pattern and queue-based asynchronous processing, significantly improving system responsiveness and reliability.
+**[E-commerce Boilerplate (ECB)](https://github.com/kmin344/ECB)** — Dockerized e-commerce microservices starter (API gateway, auth, product, cart, order, payment, review and user services, storefront, admin dashboard) plus a CLI that scaffolds new services into the stack.
 
-**4. [OAuth 2.0 Implementation](https://github.com/kmin344/OAuth-2.0-Implementation)**: A centralized OAuth 2.0 authentication system for a microservices environment, facilitating secure and efficient service-to-service communication.
+### Case studies from professional work
+These write-ups describe production systems I built at work. The source code is proprietary, so each repository documents the problem, architecture and results instead.
 
-**5. [Inbound Management System](https://github.com/kmin344/IMS) (IMS)**: A Docker-based ERP system for managing clinical trial participants, featuring automated server management and high-availability architecture.
+**[Order/Payment Management System (OPMS)](https://github.com/kmin344/OPMS)** — Microservices order and payment system built to absorb large traffic spikes, on Nest.js and AWS.
 
-**6. [E-commerce Boilerplate](https://github.com/kmin344/ECB)**: A CLI-based, scalable e-commerce platform boilerplate using Node.js, dramatically reducing setup time for new e-commerce projects and enabling non-technical management.
-  
+**[Notification API](https://github.com/kmin344/Notification-API)** — Multi-channel notification system (email, SMS, KakaoTalk, app push) using CQRS and queue-based asynchronous processing.
+
+**[OAuth 2.0 Implementation](https://github.com/kmin344/OAuth-2.0-Implementation)** — Centralized OAuth 2.0 authentication for service-to-service communication in a microservices environment.
+
+**[Inbound Management System (IMS)](https://github.com/kmin344/IMS)** — Docker-based ERP for clinical trial participant recruitment, with automated server recovery and a high-availability setup.
+
 ## 🛠️ Technologies & Tools
 
 ### Everyday Use (Advanced)
@@ -58,8 +62,6 @@ I'm a backend developer with 8 years of experience, currently working on a large
 <img src='https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&amp;logo=datadog&amp;logoColor=white' />
 <!-- JWT  -->
 <img src='https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens' />
-<!-- Yarn  -->
-<img src='https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&amp;logo=yarn&amp;logoColor=whit
 <!-- ESLint  -->
 <img src='https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&amp;logo=eslint&amp;logoColor=white' />
 <!-- Jest  -->
