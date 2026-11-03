@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I am Kwangmin Kim <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h1>
 <p align="center">Software Engineer | Backend Developer | DevOps</p>
 
-
 I'm a backend developer with 8 years of experience, currently working on a large-scale multi-tenancy web builder platform. I specialize in designing scalable systems that handle high traffic.
 
 📄 [My Resume](https://thegrid-labs.com/resume) | 🌐 [My Website](https://thegrid-labs.com) | <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="20px" width="30px" /> [My Writings](https://medium.com/@kyle.kim0305)
@@ -9,20 +8,20 @@ I'm a backend developer with 8 years of experience, currently working on a large
 ## 🚀 Projects
 
 ### Open-source code
-**[Ecommerce Operating System (shopOS)](https://github.com/kmin344/shopOS)** — Headless e-commerce backend on Nest.js, GraphQL and TypeORM. Store owners attach custom fields to products, categories and orders at runtime, and those fields are served through the GraphQL API without schema changes.
+**[Ecommerce Operating System (shopOS)](https://github.com/kmin344/shopOS)** — Headless e-commerce backend on NestJS, GraphQL and PostgreSQL. Stores add their own fields to products, categories and orders at runtime and get them through the GraphQL API with no migration. Tested end to end against Postgres in CI.
 
-**[E-commerce Boilerplate (ECB)](https://github.com/kmin344/ECB)** — Dockerized e-commerce microservices starter (API gateway, auth, product, cart, order, payment, review and user services, storefront, admin dashboard) plus a CLI that scaffolds new services into the stack.
+**[E-commerce Boilerplate (ECB)](https://github.com/kmin344/ECB)** — Seven Node.js microservices behind an API gateway, with a React storefront and admin dashboard, all run with Docker Compose. Includes a CLI that generates a new service and wires it into Compose and the gateway.
 
 ### Case studies from professional work
 These write-ups describe production systems I built at work. The source code is proprietary, so each repository documents the problem, architecture and results instead.
 
-**[Order/Payment Management System (OPMS)](https://github.com/kmin344/OPMS)** — Microservices order and payment system built to absorb large traffic spikes, on Nest.js and AWS.
+**[Order/Payment Management System (OPMS)](https://github.com/kmin344/OPMS)** — Microservices order and payment system on NestJS and AWS (EKS, Aurora) that replaced a monolith producing duplicate order numbers under traffic spikes. **SLA 96% → 99.98% for 4.5M+ MAU.**
 
-**[Notification API](https://github.com/kmin344/Notification-API)** — Multi-channel notification system (email, SMS, KakaoTalk, app push) using CQRS and queue-based asynchronous processing.
+**[Notification API](https://github.com/kmin344/Notification-API)** — One API for email, SMS, KakaoTalk and app push, using CQRS and SQS queues to decouple notifications from the core service. **30% fewer paid notification credits** through duplicate detection.
 
-**[OAuth 2.0 Implementation](https://github.com/kmin344/OAuth-2.0-Implementation)** — Centralized OAuth 2.0 authentication for service-to-service communication in a microservices environment.
+**[OAuth 2.0 Implementation](https://github.com/kmin344/OAuth-2.0-Implementation)** — Centralized OAuth 2.0 sign-in for a microservices platform: one customer login issues tokens every service accepts, letting multiple squads build and deploy independently.
 
-**[Inbound Management System (IMS)](https://github.com/kmin344/IMS)** — Docker-based ERP for clinical trial participant recruitment, with automated server recovery and a high-availability setup.
+**[Inbound Management System (IMS)](https://github.com/kmin344/IMS)** — ERP for clinical trial participant recruitment, moved from a single PM2 process to Docker microservices with blue-green deploys and automatic recovery. **A 6-hour data task cut to 30 minutes.**
 
 ## 🛠️ Technologies & Tools
 
