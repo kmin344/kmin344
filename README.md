@@ -8,6 +8,8 @@ I'm a backend developer with 8 years of experience, currently working on a large
 ## 🚀 Projects
 
 ### Open-source code
+**[MSP Ticket Triage Agent](https://github.com/kmin344/msp-ticket-triage-agent)** — Webhook service that triages support tickets with a Claude tool-use loop: HMAC-signed intake, idempotent replay, a hard per-request deadline, and every tool call audited in Postgres. Failures never leak upstream error text; callers get stable escalation codes.
+
 **[Ecommerce Operating System (shopOS)](https://github.com/kmin344/shopOS)** — Headless e-commerce backend on NestJS, GraphQL and PostgreSQL. Stores add their own fields to products, categories and orders at runtime and get them through the GraphQL API with no migration. Tested end to end against Postgres in CI.
 
 **[E-commerce Boilerplate (ECB)](https://github.com/kmin344/ECB)** — Seven Node.js microservices behind an API gateway, with a React storefront and admin dashboard, all run with Docker Compose. Includes a CLI that generates a new service and wires it into Compose and the gateway.
